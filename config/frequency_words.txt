@@ -1,14 +1,33 @@
 DeepSeek
+幻方量化
 豆包
 元宝
-
-阿里
-字节
-腾讯
+混元
 月之暗面
+Kimi
+智谱AI
+ChatGLM
+通义千问
+文心一言
+Minimax
+海螺AI
+国产AI
+大模型
 
-国产ai
-国内ai
+腾讯 
++AI
+
+字节跳动 
++AI
+
+阿里 
++AI
+
+百度 
++AI
+
+Google 
++AI
 
 京东
 刘强东
@@ -19,30 +38,51 @@ DeepSeek
 英伟达
 NVIDIA
 黄仁勋
+显卡
+GPU
 
 谷歌
 google
 gemini
 deepmind
 
-chatgpt
-openai
-sora
-
-claude
+OpenAI
+ChatGPT
+Sam Altman
+Sora
+Gemini
+DeepMind
 Anthropic
+Claude
+Grok
+xAI
+Mistral
+Llama
+Hugging Face
+Perplexity
 
-iphone
-ipad
-mac
+iPhone
+iPad
+MacBook
 ios
+小米
+华为
+鸿蒙
 
 ai
 !gai
 人工智能
 
-github
-github热门
+GitHub热门
+Copilot
+Cursor
+Trae
+CodeBuddy
+Windsurf
+Devin
+Vercel
+LangChain
+claude
 
 国产
 中国
@@ -55,9 +95,14 @@ github热门
 俄罗斯
 乌克兰
 
-trae
-cuesor
-claude
-codebuddy
-
 科技
+人形机器人
+具身智能
+
+贸易战
+芯片制裁
+实体清单
+半导体
+光刻机
+台海局势
+俄乌战争
